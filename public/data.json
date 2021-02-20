@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2020?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1604343709000",
+    "title": "iphone 12 128GB",
+    "price": 80
+  },
+  {
+    "id": 2,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011?wid=904&hei=840&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1603406905000",
+    "title": "Macbook Pro 13",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-21-retina-selection-hero-201903?wid=904&hei=840&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1553120924619",
+    "title": "iMac 3.6GHz Quad-Core Processor 256GB",
+    "price": 140
+  },
+  {
+    "id": 4,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-spacegray-202011?wid=904&hei=840&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1603580359000",
+    "title": "Mac mini 3.0GHz Intel Core i5 6-Core",
+    "price": 90
+  },
+  {
+    "id": 5,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-pro-hero-cto?wid=554&hei=444&fmt=jpeg&qlt=80&.v=1572646185753",
+    "title": "Mac Pro 8‑core Intel Xeon W processor",
+    "price": 6000
+  },
+  {
+    "id": 6,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/pro-display-hero?wid=820&amp;hei=474&amp;fmt=png-alpha&amp;qlt=80&amp;.v=1572384750703",
+    "title": "Pro Display XDR Standart Glass",
+    "price": 5000
+  }
+]

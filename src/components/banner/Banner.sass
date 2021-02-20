@@ -1,0 +1,46 @@
+.banner
+  width: 100%
+  height: 500px
+  position: relative
+  display: flex
+  align-items: center
+  background-image: url('/images/banner_img.png')
+
+  &_content
+    width: 50%
+    height: 100%
+    display: flex
+    flex-direction: column
+    justify-content: center
+    &_title
+      h1
+        color: #FFF
+        font-size: 48px
+        font-weight: 700
+        line-height: 50px
+    &_subtitle
+      margin-top: 30px
+      p
+        color: #5d5d5d
+    &_btn
+      margin-top: 30px
+      button
+        color: #FFFFFF
+        border: none
+        border-radius: 20px
+        padding: 20px 30px
+        font-size: 20px
+        background: linear-gradient(90deg, #FFC046 0%, #FF8205 100%)
+        transition: 0.2s
+      button:hover
+        background-size: 150%
+
+  &_apple_watch
+    position: absolute
+    bottom: -150px
+    right: 50px
+    width: 600px
+    img
+      width: 100%
+      height: 100%
+      object-fit: contain

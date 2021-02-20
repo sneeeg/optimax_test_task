@@ -1,0 +1,51 @@
+.cart
+  position: fixed
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  top: 80px
+  right: 100px
+  width: 400px
+  height: 200px
+  padding: 20px
+  background: #FFF
+  border-radius: 20px
+  z-index: 10
+
+  &_title
+    text-align: center
+
+  &_wrapper
+    width: 100%
+
+  &_content
+    width: 100%
+    padding: 20px 0
+
+  &_footer
+    border-top: 1px solid #e0e0e0
+    padding: 20px 0
+    display: flex
+    justify-content: flex-end
+    &_content
+      display: flex
+      flex-direction: column
+      justify-content: flex-end
+      text-align: center
+      span
+        margin-bottom: 10px
+  &_get-order
+    margin-top: 15px
+    color: #FFFFFF
+    border: none
+    border-radius: 20px
+    padding: 10px 30px
+    font-size: 18px
+    background: linear-gradient(90deg, #FFC046 0%, #FF8205 100%)
+    transition: 0.2s
+  &_get-order:hover
+    color: #212121
+
+  &_clean-cart
+    background: none
+    border: none
